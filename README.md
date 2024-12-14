@@ -14,6 +14,9 @@ Furthermore to the mentioned functionalities, the project is structured as a Mav
 
 With Maven, the project can easily manage and resolve external libraries and dependencies required by the Java Swing GUI and the MySQL database integration. Maven's dependency management simplifies the process of adding, updating, and resolving library dependencies, ensuring that the project has all the necessary components for successful compilation and execution.
 
+![Page Flow](https://github.com/user-attachments/assets/b2eb9735-a137-4d8b-a941-1661f94d3f02)
+
+
 Complete page flow for the application
 Users
 The Bug Tracking System project accommodates multiple user roles, including testers, developers, project managers, and admins. Each role is equipped with specific functionalities tailored to their responsibilities and permissions.
